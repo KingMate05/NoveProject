@@ -1,6 +1,6 @@
 {
-    "name": "nove_application",
-    "short_name": "nove_application",
+    "name": "nove_console_article",
+    "short_name": "nove_console_article",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

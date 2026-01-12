@@ -1,4 +1,4 @@
-# nove_application
+# nove_console_article
 
 A new Flutter project.
 
@@ -14,3 +14,14 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+https://developer.zebra.com/blog/listening-keypress-events-datawedge
+https://supportcommunity.zebra.com/s/article/DataWedge-for-Android-Send-Enter-or-Tab-after-scanning?language=en_US
+
+
+dart run build_runner watch --delete-conflicting-outputs
+
+flutter build apk
+flutter install
+
+Update gradle version: ./gradlew wrapper --gradle-version=8.5
